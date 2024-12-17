@@ -1,2 +1,2 @@
 This is the first file created for git demo.
-this change is made fro github.
+this change is made from github.
