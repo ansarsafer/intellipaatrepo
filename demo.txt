@@ -1,1 +1,2 @@
-Thi sis the first file created for git demo.
+This is the first file created for git demo.
+this change is made fro github.
